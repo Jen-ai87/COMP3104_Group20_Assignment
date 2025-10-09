@@ -3,7 +3,7 @@
 ## Group Members
 - **Leader:** Pritesh Patel (1023756) - [GitHub](https://github.com/priteshpatel)
 - **Member 1:** Jen Henry (101511301) - [GitHub](https://github.com/Jen-ai87)
-- **Member 2:** John Smith (1027890) - [GitHub](https://github.com/johnsmith)
+- **Member 2:** Faraz Safdar (100775883) - [GitHub](https://github.com/Fraz23)
 - **Member 3:** John Smith (1027890) - [GitHub](https://github.com/johnsmith)
 - **Member 4:** John Smith (1027890) - [GitHub](https://github.com/johnsmith)
 
