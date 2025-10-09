@@ -1,1 +1,36 @@
-COMP 3104 teaches key DevOps concepts including CI/CD, automation, and collaboration.
+COMP 3104 — DevOps Principles and Practices
+
+Course overview
+COMP 3104 introduces students to DevOps principles, practices, and toolchains used to deliver software faster, more reliably, and with higher quality. The course emphasizes automation, continuous integration and continuous delivery (CI/CD), infrastructure as code, monitoring, and collaborative workflows that bridge development and operations teams.
+
+Learning outcomes
+- Understand the cultural and organizational principles behind DevOps.
+- Design and implement CI pipelines using industry-standard tools.
+- Automate infrastructure provisioning using Infrastructure as Code (IaC) techniques.
+- Implement automated testing and deployment strategies for applications.
+- Monitor applications and infrastructure; respond to incidents and performance issues.
+- Apply containerization and orchestration technologies (e.g., Docker, Kubernetes) in deployment workflows.
+
+Topics covered
+- DevOps culture and collaboration
+- Version control workflows (Git, branching strategies)
+- Continuous Integration (CI) tools and pipelines
+- Continuous Deployment/Delivery (CD) strategies
+- Infrastructure as Code (Terraform, Ansible, or similar)
+- Containerization (Docker) and orchestration (Kubernetes)
+- Automated testing and test automation frameworks
+- Monitoring, logging, and observability (Prometheus, Grafana, ELK stack)
+- Security in DevOps (DevSecOps) and dependency management
+
+Assessments and labs
+Assessment typically includes a mixture of practical labs, group projects, and individual assignments. Labs focus on building CI/CD pipelines, provisioning cloud or local infrastructure with IaC, containerizing applications, and creating deployment workflows with automated tests and monitoring. A capstone project often requires students to demonstrate an end-to-end automated delivery pipeline.
+
+Prerequisites
+Basic programming knowledge, familiarity with Linux command line, and experience with version control (Git) are recommended. Specific prerequisite course codes or requirements should be confirmed in the official COMP 3104 course listing.
+
+Resources and further reading
+- Official course materials and lab guides provided by the instructor.
+- Documentation: Git, Docker, Kubernetes, Terraform, Ansible, Prometheus, Grafana.
+- Free online resources: cloud provider tutorials, CI/CD tool docs, and community tutorials.
+
+For exact assessment breakdown, scheduling, and official prerequisites, consult the COMP 3104 course page or the course syllabus provided by George Brown College.
