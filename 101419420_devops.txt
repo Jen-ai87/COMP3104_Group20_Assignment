@@ -7,19 +7,19 @@ engineer should bring to their work environment in order to increase productivit
 students understand and adhere to the core responsibilities of DevOps.
 
 Learning Outcomes:
-    * Apply effective DevOps techniques using industry-standard tools such as CI/CD pipelines, containerization,
+    - Apply effective DevOps techniques using industry-standard tools such as CI/CD pipelines, containerization,
     and modern deployment strategies.
-    * Perform hands-on lab work to implement and demonstrate DevOps practices in real or simulated environments.
-    * Collaborate effectively within IT teams, fulfilling the defined roles and responsibilities of a DevOps engineer.
-    * Use Version Control Systems (VCS) with proper branching workflows to ensure low-risk software releases.
-    * Monitor and maintain code quality, ensuring reliable builds and deploying applications to hosting services.
-    * Understand the DevOps job market, identifying opportunities and positioning yourself effectively as a DevOps engineer.
+     Perform hands-on lab work to implement and demonstrate DevOps practices in real or simulated environments.
+    - Collaborate effectively within IT teams, fulfilling the defined roles and responsibilities of a DevOps engineer.
+    - Use Version Control Systems (VCS) with proper branching workflows to ensure low-risk software releases.
+    - Monitor and maintain code quality, ensuring reliable builds and deploying applications to hosting services.
+    - Understand the DevOps job market, identifying opportunities and positioning yourself effectively as a DevOps engineer.
 
 Recommended Resources:
-    * github.com/
-    * travis-ci.com/
-    * docker.com/
-    * sonarqube.org/
+    - github.com/
+    - travis-ci.com/
+    - docker.com/
+    - sonarqube.org/
 
 For more information, such as delivery mode, assignment policy, mark breakdowns, and more, please consult the course outline
 provided in D2L > COMP 3104
