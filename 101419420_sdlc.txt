@@ -11,14 +11,14 @@ continuous improvement. By breaking down silos between teams, DevOps ensures fas
 reliable software updates.
 
 Key Benefits:
-    * Continuous Integration (CI):** Developers merge code frequently, allowing teams to detect issues early and maintain
+    - Continuous Integration (CI):** Developers merge code frequently, allowing teams to detect issues early and maintain
     code stability throughout the SDLC.
-    * Continuous Delivery (CD):** Automating build, test, and deployment pipelines ensures that software can be released
+    - Continuous Delivery (CD):** Automating build, test, and deployment pipelines ensures that software can be released
     quickly and reliably at any time.
-    * Collaboration and Communication:** DevOps fosters shared responsibility and teamwork between developers, testers,
+    - Collaboration and Communication:** DevOps fosters shared responsibility and teamwork between developers, testers,
     and IT professionals.
-    * Improved Quality Assurance:** Automated testing and monitoring reduce human error and maintain consistent standards.
-    * Faster Feedback Loops:** Developers receive immediate insights from production environments, leading to rapid
+    - Improved Quality Assurance:** Automated testing and monitoring reduce human error and maintain consistent standards.
+    - Faster Feedback Loops:** Developers receive immediate insights from production environments, leading to rapid
     iteration and better decision-making.
 
 Conclusion:
