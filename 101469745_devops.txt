@@ -25,4 +25,26 @@ Course Outcomes:
         7. Leverage service platforms like Infrastructure as Code and understand the benefits of cloud computing.
 
         8. Identify and understand the market space for DevOps engineers.
-        
+
+Textbooks & Resources
+
+    Required:
+
+        - Exploring DevOps: An Introduction for Beginners – ISBN: 978-1-927041-22-2
+
+    Recommended Online Resources:
+
+        - GitHub
+        - Travis CI
+        - Docker
+        - Kubernetes
+        - SonarQube    
+
+Course Delivery:
+
+    The course is delivered through a mix of lectures, hands-on lab exercises, and take-home assignments.
+
+        - Online students: Lectures and labs are conducted virtually.
+        - In-person students: Attend on-campus lectures and labs.
+        - Updates and details on course details are available on D2L.
+
