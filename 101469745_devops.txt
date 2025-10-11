@@ -1,0 +1,28 @@
+COMP3104 - DevOps
+
+Course Description:
+
+    This course introduces students to the procedures, protocols and beest practices used by DevOp engineers to enhance productivity in the workplace.
+    Students will analyze and evaluate different DevOps implementations, gain hands-on experience wit industry-standar tools, and develop solutions to complex
+    business challenges while adhereing to the core responsibilities of DevOps professionals.
+
+Course Outcomes:
+
+    By the end of this course, students will be able to:
+
+        1. Apply effective DevOps techniques using industry-standard tools and practices, including continuous integration/delivery/deployment, software development lifecycle, and application containerization.
+
+        2. Perform hands-on lab exercises to reinforce DevOps skills.
+
+        3. Collaborate effectively with IT teams by understanding the roles and responsibilities of a DevOps engineer.
+
+        4. Utilize Version Control System workflows for low-risk software releases.
+
+        5. Make informed architectural decisions, including choosing between monolith and microservice architectures.
+
+        6. Monitor code quality and deploy applications to hosting services.
+
+        7. Leverage service platforms like Infrastructure as Code and understand the benefits of cloud computing.
+
+        8. Identify and understand the market space for DevOps engineers.
+        
