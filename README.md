@@ -7,6 +7,7 @@
 - **Member 3:** Patrick Solamillo (101464667) - [GitHub](https://github.com/psolamillo)
 - **Member 4:** John Smith (1027890) - [GitHub](https://github.com/johnsmith)
 - **Member 5:** Olympia Santaguida-Antunes (101469745) - [GitHub](https://github.com/olympia15)
+- **Member 6:** Gabriel Apariio (101419420) - [GitHub](https://github.com/GabeAparicio)
 
 ## Project Description
 This repository hosts the group assignment for COMP3104 DevOps course, focusing on collaborative Git workflows, branching strategies, and CI/CD integration.
