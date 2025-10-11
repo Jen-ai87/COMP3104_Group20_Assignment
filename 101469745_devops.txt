@@ -1,0 +1,61 @@
+COMP3104 - DevOps
+
+-----------------
+
+Course Description
+
+    This course introduces students to the procedures, protocols and beest practices used by DevOp engineers to enhance productivity in the workplace.
+    Students will analyze and evaluate different DevOps implementations, gain hands-on experience wit industry-standar tools, and develop solutions to complex
+    business challenges while adhereing to the core responsibilities of DevOps professionals.
+
+Course Outcomes
+
+    By the end of this course, students will be able to:
+
+        1. Apply effective DevOps techniques using industry-standard tools and practices, including continuous integration/delivery/deployment, software development lifecycle, and application containerization.
+
+        2. Perform hands-on lab exercises to reinforce DevOps skills.
+
+        3. Collaborate effectively with IT teams by understanding the roles and responsibilities of a DevOps engineer.
+
+        4. Utilize Version Control System workflows for low-risk software releases.
+
+        5. Make informed architectural decisions, including choosing between monolith and microservice architectures.
+
+        6. Monitor code quality and deploy applications to hosting services.
+
+        7. Leverage service platforms like Infrastructure as Code and understand the benefits of cloud computing.
+
+        8. Identify and understand the market space for DevOps engineers.
+
+Textbooks & Resources
+
+    Required:
+
+        - Exploring DevOps: An Introduction for Beginners – ISBN: 978-1-927041-22-2
+
+    Recommended Online Resources:
+
+        - GitHub
+        - Travis CI
+        - Docker
+        - Kubernetes
+        - SonarQube    
+
+Course Delivery
+
+    The course is delivered through a mix of lectures, hands-on lab exercises, and take-home assignments.
+
+        - Online students: Lectures and labs are conducted virtually.
+        - In-person students: Attend on-campus lectures and labs.
+        - Updates and details on course details are available on D2L.
+
+Assignment Policy
+
+    Assignments must be submitted on time by the due date. Late submissions are subject to a 20% penalty per day for up to seven days unless prior approval has been 
+    given by the professor.
+
+Test Policy
+
+    - Tests and exams must be completed on the scheduled dates. Students must notify the professor at least three days in advance if you cannot attend. 
+    - No make-up quizzes or lab exercises. Students must notify the professor beforehandif missing more than two for serious reasons.

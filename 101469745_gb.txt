@@ -1,0 +1,32 @@
+George Brown College
+
+--------------------
+
+Overview
+
+    George Brown College is a public post-secondary institution located in the heart of downtown Toronto. Established in 1968, the college offers a wide range 
+    of programs designed to prepare students for successful careers in various industries. With a focus on experiential learning and strong industry connections, 
+    George Brown College provides students with the skills and knowledge needed to thrive in today's competitive job market.
+
+Campuses
+    
+    The college operates three main campuses in downtown Toronto:
+
+        - St. James Campus: Located in the city's financial district, this campus offers programs in business, community services, and early childhood education.
+        - Casa Loma Campus: Situated in the midtown area, it houses programs in construction and engineering technologies, health sciences, and preparatory studies.
+        - Waterfront Campus: Located along the scenic waterfront, this campus focuses on design, health sciences, and culinary arts programs.
+
+Programs
+
+    George Brown College offers more than 170 full-time programs across various fields, including:
+
+        - Arts, Design & Information Technology: Programs in graphic design, digital media, and information technology.
+        - Business: Courses in accounting, marketing, and business administration.
+        - Community Services & Early Childhood Education: Programs preparing students for careers in social services and early childhood education.
+        - Construction & Engineering Technologies: Courses in construction management, mechanical engineering, and architectural studies.
+        - Health Sciences: Programs in nursing, dental hygiene, and health services management.
+        - Hospitality & Culinary Arts: Courses in culinary management, food studies, and hospitality administration.
+
+Contact Information
+    
+    For more information about programs, admissions, and campus life, visit the official website: www.georgebrown.ca
