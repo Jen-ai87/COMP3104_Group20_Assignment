@@ -1,12 +1,14 @@
 COMP3104 - DevOps
 
-Course Description:
+-----------------
+
+Course Description
 
     This course introduces students to the procedures, protocols and beest practices used by DevOp engineers to enhance productivity in the workplace.
     Students will analyze and evaluate different DevOps implementations, gain hands-on experience wit industry-standar tools, and develop solutions to complex
     business challenges while adhereing to the core responsibilities of DevOps professionals.
 
-Course Outcomes:
+Course Outcomes
 
     By the end of this course, students will be able to:
 
@@ -40,7 +42,7 @@ Textbooks & Resources
         - Kubernetes
         - SonarQube    
 
-Course Delivery:
+Course Delivery
 
     The course is delivered through a mix of lectures, hands-on lab exercises, and take-home assignments.
 
@@ -48,3 +50,12 @@ Course Delivery:
         - In-person students: Attend on-campus lectures and labs.
         - Updates and details on course details are available on D2L.
 
+Assignment Policy
+
+    Assignments must be submitted on time by the due date. Late submissions are subject to a 20% penalty per day for up to seven days unless prior approval has been 
+    given by the professor.
+
+Test Policy
+
+    - Tests and exams must be completed on the scheduled dates. Students must notify the professor at least three days in advance if you cannot attend. 
+    - No make-up quizzes or lab exercises. Students must notify the professor beforehandif missing more than two for serious reasons.
