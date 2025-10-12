@@ -5,10 +5,9 @@
 - **Member 1:** Jen Henry (101511301) - [GitHub](https://github.com/Jen-ai87)
 - **Member 2:** Faraz Safdar (100775883) - [GitHub](https://github.com/Fraz23)
 - **Member 3:** Patrick Solamillo (101464667) - [GitHub](https://github.com/psolamillo)
-- **Member 4:** John Smith (1027890) - [GitHub](https://github.com/johnsmith)
-- **Member 5:** Olympia Santaguida-Antunes (101469745) - [GitHub](https://github.com/olympia15)
-- **Member 6:** Gabriel Apariio (101419420) - [GitHub](https://github.com/GabeAparicio)
-- **Member 7:** Wassn Al Nabhan (101468092) - [GitHub](https://github.com/Wassn23)
+- **Member 4:** Olympia Santaguida-Antunes (101469745) - [GitHub](https://github.com/olympia15)
+- **Member 5:** Gabriel Apariio (101419420) - [GitHub](https://github.com/GabeAparicio)
+- **Member 6:** Wassn Al Nabhan (101468092) - [GitHub](https://github.com/Wassn23)
 
 
 ## Project Description
