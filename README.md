@@ -8,6 +8,8 @@
 - **Member 4:** John Smith (1027890) - [GitHub](https://github.com/johnsmith)
 - **Member 5:** Olympia Santaguida-Antunes (101469745) - [GitHub](https://github.com/olympia15)
 - **Member 6:** Gabriel Apariio (101419420) - [GitHub](https://github.com/GabeAparicio)
+- **Member 7:** Wassn Al Nabhan (101468092) - [GitHub](https://github.com/Wassn23)
+
 
 ## Project Description
 This repository hosts the group assignment for COMP3104 DevOps course, focusing on collaborative Git workflows, branching strategies, and CI/CD integration.
