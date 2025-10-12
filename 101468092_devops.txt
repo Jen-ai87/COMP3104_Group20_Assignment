@@ -4,5 +4,6 @@ This course focuses on improving how software is developed and delivered
 it teaches students how development and operations teams can work together.
 they'll learn about testing and vs tools like git and github and many more
 the course also covers collaboration skills used in real world projects.
+This course also helps build communcation skiils between developers and IT.
 At the end of the course, students understand how devops helps teams deliver software
 faster, more reliably and with better quality.
