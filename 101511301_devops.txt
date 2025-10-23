@@ -42,3 +42,4 @@ Skills Developed:
 - Cloud-native application development
 
 This course prepares students for real-world DevOps roles by providing practical experience with industry-standard tools and workflows. Students work on projects that simulate actual DevOps environments, learning to automate, monitor, and optimize software development lifecycles.
+-----------------------------------------------------------
