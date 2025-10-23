@@ -54,3 +54,4 @@ Conclusion:
 Learning DevOps is essential for anyone involved in software development. It not only improves technical skills but also develops a mindset focused on automation, collaboration, and continuous improvement. As organizations increasingly adopt DevOps practices, professionals with these skills will be better positioned to contribute to successful software projects and advance their careers in the technology industry.
 
 The integration of DevOps in the SDLC represents a fundamental shift in how software is built and delivered, making it an indispensable skill set for modern software professionals.
+-----------------------------------------------------------
