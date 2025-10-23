@@ -1,0 +1,19 @@
+Importance of DevOps in the software development cycle
+
+There are two different teams in software development: the development team, who plan, design, and build the software; and the operations team, who tests and implements the developed software. 
+Because the separation of these two teams lead to delays due to reasons such as communication or differences in their environment, The DevOps process was created.
+
+DevOps addresses these issues by breaking the separation between the two teams to enhance communication and efficiency. 
+It does this by establishing practices and utilizing tools to create a continuous loop where development activities like planning and building code are directly connected to operations activities such as testing and releasing code.
+
+The DevOps cycle consists of:
+Plan - where requirements are identified and information is collected
+Code - where the development takes place
+Build - code is compiled and integrated together
+Test - where the build is deployed and tested
+Release - software is released to production
+Deploy - infrastructure is created and code is deployed
+Operate - where customers can use software
+Monitor - observation of the software performance
+
+This "loop" promotes a cycle of continuous and constant collaboration between the two teams which is essential in the software development cycle.

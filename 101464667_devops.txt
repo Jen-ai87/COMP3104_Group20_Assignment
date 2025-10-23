@@ -1,0 +1,22 @@
+COMP3104 DevOps Course Information
+
+This course prepares students to learn the practices of a DevOps engineer by exploring the integration of DevOps principles and practices in a workplace environment. 
+DevOps is the integration and automation of workflows as well as the creation of strategies to bridge gaps between developer and operation teams. 
+When its processes are applied it unites teams, simplifies the development process and delivery, and leads to a more efficient workflow.
+
+This DevOps course covers:
+-	Why DevOps is integrated in the workplace
+-	DevOps roles and responsibilities
+-	DevOps pipeline creation
+-	Version Control in DevOps
+-	Continuous integration/ Continuous Deployment
+-	Cloud infrastructure
+-	Automation in DevOps
+
+The Course Outcomes of the course is the ability to:
+-	Demonstrate and deploy DevOps techniques using industry standard tools
+-	Gain hands on experience with DevOps workflow
+-	Gain knowledge on the role and responsibilities of a DevOps engineer
+-	Usage of version control system workflows
+
+At the end of the course students will be ready to employ DevOps practices in teams to meet real world requirements.

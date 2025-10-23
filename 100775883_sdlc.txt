@@ -1,0 +1,45 @@
+SDLC and the Role of DevOps
+
+Overview
+The Software Development Life Cycle (SDLC) is a framework that defines the stages involved in building, deploying, and maintaining software. Common SDLC phases include planning, requirements analysis, design, implementation (coding), testing, deployment, and maintenance. DevOps complements and extends the SDLC by emphasizing collaboration between development and operations teams, automating repetitive tasks, and enabling continuous delivery.
+
+How DevOps Fits into the SDLC
+- Planning & Requirements: DevOps encourages early involvement of operations, security, and QA in planning to identify constraints and deployment requirements.
+- Development & Version Control: Developers use version control systems (e.g., Git) and follow branching strategies that support continuous integration.
+- Continuous Integration (CI): Automated builds and unit tests run on each commit to catch issues early.
+- Continuous Delivery/Deployment (CD): Automated pipelines package, test, and deploy software to staging or production environments with minimal manual intervention.
+- Testing & QA: Automated test suites (unit, integration, end-to-end) are integrated into CI/CD pipelines to ensure quality.
+- Monitoring & Feedback: Observability tools provide runtime metrics and logs; feedback loops inform developers and operations about performance and incidents, feeding back into planning.
+
+Key Practices and Tools
+- Version control: Git, GitHub/GitLab/Bitbucket
+- CI/CD: Jenkins, GitHub Actions, GitLab CI, CircleCI
+- Containerization: Docker
+- Orchestration: Kubernetes
+- Infrastructure as Code (IaC): Terraform, Ansible, CloudFormation
+- Monitoring & Observability: Prometheus, Grafana, ELK/EFK stack
+- Testing frameworks: JUnit, pytest, Selenium, Cypress
+- Security integration (DevSecOps): SAST/DAST tools, automated dependency scanning
+
+Benefits of Integrating DevOps in the SDLC
+- Faster time-to-market through automated pipelines and continuous delivery
+- Improved quality due to earlier and more frequent testing
+- Increased reliability and availability via automated deployments and monitoring
+- Better collaboration and reduced handoff friction between teams
+- Improved security posture when security is integrated into pipelines (shift-left)
+
+Metrics and KPIs to Track
+- Deployment frequency
+- Lead time for changes (commit to deploy)
+- Mean time to recovery (MTTR)
+- Change failure rate (percentage of deployments causing failures)
+- Test pass/fail rates and code coverage (as applicable)
+
+Best Practices
+- Automate as much of the pipeline as feasible (build, test, deploy)
+- Keep pipelines fast and reliable; fail fast to surface issues quickly
+- Use feature flags to decouple deployment from release
+- Monitor production and set up alerting and runbooks for incidents
+- Foster a culture of shared responsibility and continuous improvement
+
+For more detailed guidance, consult standard DevOps resources, official tool documentation, and course materials that cover CI/CD, automation, and observability in depth.

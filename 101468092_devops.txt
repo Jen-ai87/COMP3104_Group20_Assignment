@@ -1,0 +1,9 @@
+Comp 3104 Devops
+
+This course focuses on improving how software is developed and delivered.
+It teaches students how development and operations teams can work together.
+They'll learn about testing, version control tools like git, github and many more.
+The course also covers collaboration skills used in real world projects.
+This course also helps build communication skiils between developers and IT.
+At the end of this course, students understand how devops helps teams deliver software
+faster and more reliably.
